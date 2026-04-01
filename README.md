@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jesus Silva
 
-<!--
-**Jesussilv4/Jesussilv4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Sou Natural de Parnaiba-Pí, Técnico em Informática, tenho muito interessse em cada vez mais me expecializar na área de Desenvolvimento de Softwares, estudo Back-end por conta propria com auxilio de IA e do Youtube, sou apaixonado em tecnologia, café e esportes.
 
-Here are some ideas to get you started:
+# Conecte-se comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jesus-santos-8391b7393/) [![DIO](https://img.shields.io/badge/Meu_perfil_na_DIO-fff?style=for-the-badge)](https://www.dio.me/users/Jesussilv4) [![gmail](https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail&logoColor=00)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Jesussilva11111111@gmail.com) 
+
+
+
+# Habilidades
+
+![Java](https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=java) 
+
+
+
+
+
